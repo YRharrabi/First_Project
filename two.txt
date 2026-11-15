@@ -1,4 +1,7 @@
 two
+<<<<<<< HEAD
  ac,mna,cnc
 vndsvvlsjlv
 vkndkmv.dsmvsdvlkdsv
+=======
+>>>>>>> ecad45c6a0fcac6f55f0ffe76fe9e63168ee0d5c
